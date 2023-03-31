@@ -1,6 +1,6 @@
 Name:		texlive-comicneue
 Version:	54891
-Release:	1
+Release:	2
 Summary:	Use Comic Neue with TeX(-alike) systems
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/comicneue
