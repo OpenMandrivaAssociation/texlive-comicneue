@@ -3,7 +3,7 @@ Version:	54891
 Release:	2
 Summary:	Use Comic Neue with TeX(-alike) systems
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/comicneue
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/comicneue
 License:	ofl
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/comicneue.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/comicneue.doc.r%{version}.tar.xz
